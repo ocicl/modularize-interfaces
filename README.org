@@ -4,6 +4,6 @@ Programmatical interfaces extension for Modularize
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/modularize-interfaces.git |
-| commit  | 99311d0                                                   |
+| commit  | 9774827                                                   |
 | systems | modularize-interfaces                                     |
 |---------+-----------------------------------------------------------|
