@@ -6,4 +6,4 @@ Programmatical interfaces extension for Modularize
 | source  | git:https://codeberg.org/shinmera/modularize-interfaces.git |
 | commit  | e42828a                                                   |
 | systems | modularize-interfaces                                     |
-|---------+-----------------------------------------------------------|
+|---------+-----------------------------------------------------------| 
